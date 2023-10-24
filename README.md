@@ -8,7 +8,7 @@ link: [https://www.figma.com/file/wMc8ZYHkXqfIOjXcnooqq9/orderbookDEX?type=white
 
 
 
-# "Red-Black-Tree Orderbook ALgoritması" 
+# "Red-Black-Tree Orderbook Algoritması" 
 
 * Bir değişim (exchange) veya ticaret platformında siparişlerin düzgün bir şekilde saklanması ve sıralanması gerekir. Ağaç veri yapısı, siparişlerin fiyat sırasına göre hızlı bir şekilde erişilmesine olanak tanır. Kısacası siparişleri yönetmede sıra yapısını kullanmamıza olan sağlar.
 
